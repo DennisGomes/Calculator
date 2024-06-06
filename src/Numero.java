@@ -11,4 +11,4 @@ public class Numero {
     public int getValor(){
         return this.valor;
     }
-}  
+}   

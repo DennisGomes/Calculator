@@ -7,7 +7,7 @@ public class calc {
      Numero n2=new Numero();
      Numero res=new Numero();
 
-        String opc="S";
+    String opc="S";
 
     while(opc.equals("S") || opc.equals("s")){
 
